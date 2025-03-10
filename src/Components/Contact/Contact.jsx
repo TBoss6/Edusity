@@ -43,15 +43,15 @@ const Contact = () => {
         </p>
         <ul>
           <li>
-            <img src={mail_icon} alt="" /> Contact@devTitan
+            <img src={mail_icon} alt="" /> taiwoadebayo541@gmail.com
           </li>
           <li>
             <img src={phone_icon} alt="" />
-            +234 7015160189
+            +2347015160189
           </li>
           <li>
             <img src={location_icon} alt="" />
-            17 oke orire street, <br /> kajola akure Ondo State
+            Lagos Nigeria
           </li>
         </ul>
       </div>
